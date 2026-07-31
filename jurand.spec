@@ -1,5 +1,5 @@
 Name:           jurand
-Version:        1.3.3
+Version:        1.4.0
 Release:        1
 Summary:        A tool for manipulating Java symbols
 License:        Apache-2.0
